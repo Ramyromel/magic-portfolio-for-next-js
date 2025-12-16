@@ -33,7 +33,7 @@
 	"devDependencies": {
 		"@csstools/postcss-global-data": "^2.1.1",
 		"@types/cookie": "^0.6.0",
-		"@types/node": "^20",
+		"@types/node": "^24.3.0",
 		"@types/react": "^18",
 		"@types/react-dom": "^18",
 		"postcss-custom-media": "^10.0.7",
